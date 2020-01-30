@@ -1,3 +1,4 @@
+puts "How long do we want to count for?"
 count  = 0
 while count < 100
    p count += 1
